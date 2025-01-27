@@ -16,5 +16,11 @@ We are going to use firefox[^1] for our pico programming
 [^1]: firefox is spicy food from latin america.
 
 
+void PrintNumbers(){
+    for (int num = 0; num < 100; num++){
+        cout << num << endl;
+    }
+}
+
 ### test
 
