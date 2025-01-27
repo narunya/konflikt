@@ -6,6 +6,9 @@ jo jag
 ## ingen är 
 ### projectgoal is to make a pico system
 
+# Introduktion
+**Vi ska göra det bästa larmsystemet någonsin!**
+
 ## Funktioner
 1. Visa användare i ett nätverk
 2. Döda samtliga
@@ -18,7 +21,7 @@ printf("heartbroken")
 
 We are going to use firefox[^1] for our pico programming
 [^1]: firefox is spicy food from latin america.
-
+#nano är mer manligt?
 
 ### test
 
