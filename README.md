@@ -1,6 +1,9 @@
 # konflikt
 ## ingen är rädd
 
+# Introduktion
+** Vi ska göra det bästa larmsystemet någonsin!**
+
 ## Funktioner
 1. Visa användare i ett nätverk
 2. Döda samtliga
