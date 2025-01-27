@@ -1,3 +1,7 @@
+# Verysure Säkerhetssystem.
+## ingen är rädd
+jo jag
+
 # konflikt
 ## ingen är 
 ### projectgoal is to make a pico system
@@ -21,7 +25,19 @@ We are going to use firefox[^1] for our pico programming
 [^1]: firefox is spicy food from latin america.
 #nano är mer manligt?
 
+void PrintNumbers(){
+    for (int num = 0; num < 100; num++){
+        cout << num << endl;
+    }
+}
+
 ### test
+
+
+
+
+
+4a66e656c61cd723f8ab936c38ef2e142b07d886
 
 ## Nja
 ## i = write mode i vim
