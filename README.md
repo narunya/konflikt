@@ -49,11 +49,13 @@ void PrintNumbers(){
 =======
 
 
-b
+
 
 
 ## Nja
 ## i = write mode i vim
+## wq! = spara och quit i vim
+
 ```mermaid
 graph TD
     %% Network Layer
