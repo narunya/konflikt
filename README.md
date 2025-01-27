@@ -1,5 +1,6 @@
 # konflikt
-## ingen är rädd
+## ingen är 
+### projectgoal is to make a pico system
 
 # Introduktion
 ** Vi ska göra det bästa larmsystemet någonsin!**
@@ -16,7 +17,7 @@ printf("heartbroken")
 
 We are going to use firefox[^1] for our pico programming
 [^1]: firefox is spicy food from latin america.
-
+#nano är mer manligt?
 
 ### test
 
