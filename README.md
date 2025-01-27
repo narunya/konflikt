@@ -9,6 +9,8 @@
 1. Visa användare i ett nätverk
 2. Döda samtliga
 3. Stäng av
+6.extern resurs
+
 
 
 printf("Simon B inte sjuk?")
@@ -26,6 +28,8 @@ void PrintNumbers(){
 }
 
 ### test
+
+## Nja
 
 ```mermaid
 graph TD
