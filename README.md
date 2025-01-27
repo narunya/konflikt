@@ -5,7 +5,11 @@
 # Introduktion
 **Vi ska göra det bästa larmsystemet någonsin!**
 
-## Funktioner
+## Projektbeskrivning
+
+*Målet med projektet syftar till att bygga ett övergripande säkerhetssystem för att förhindra brott, olyckor och att förenkla interaktionen med elektroniska enheter i hemmet*
+
+### Funktioner
 1. Visa användare i ett nätverk
 2. Döda samtliga
 3. Stäng av
@@ -19,7 +23,7 @@ We are going to use firefox[^1] for our pico programming
 [^1]: firefox is spicy food from latin america.
 #nano är mer manligt?
 
-### test
+#### test
 
 ```mermaid
 graph TD
