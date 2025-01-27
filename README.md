@@ -3,7 +3,7 @@
 ### projectgoal is to make a pico system
 
 # Introduktion
-** Vi ska göra det bästa larmsystemet någonsin!**
+**Vi ska göra det bästa larmsystemet någonsin!**
 
 ## Funktioner
 1. Visa användare i ett nätverk
