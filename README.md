@@ -9,7 +9,11 @@ jo jag
 # Introduktion
 **Vi ska göra det bästa larmsystemet någonsin!**
 
-## Funktioner
+## Projektbeskrivning
+
+*Målet med projektet syftar till att bygga ett övergripande säkerhetssystem för att förhindra brott, olyckor och att förenkla interaktionen med elektroniska enheter i hemmet*
+
+### Funktioner
 1. Visa användare i ett nätverk
 2. Döda samtliga
 3. Stäng av
@@ -24,6 +28,9 @@ printf("heartbroken")
 We are going to use firefox[^1] for our pico programming
 [^1]: firefox is spicy food from latin america.
 #nano är mer manligt?
+
+
+#### test
 
 void PrintNumbers(){
     for (int num = 0; num < 100; num++){
