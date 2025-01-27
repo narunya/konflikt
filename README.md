@@ -25,9 +25,9 @@ We are going to use firefox[^1] for our pico programming
 [^1]: firefox is spicy food from latin america.
 #nano är mer manligt?
 
-<<<<<<< HEAD
+
 #### test
-=======
+
 void PrintNumbers(){
     for (int num = 0; num < 100; num++){
         cout << num << endl;
@@ -35,7 +35,7 @@ void PrintNumbers(){
 }
 
 ### test
->>>>>>> refs/remotes/origin/main
+
 
 ## Nja
 
