@@ -24,7 +24,7 @@ We are going to use firefox[^1] for our pico programming
 ### test
 
 ## Nja
-
+## i = write mode i vim
 ```mermaid
 graph TD
     %% Network Layer
