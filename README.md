@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Verysure Säkerhetssystem.
 ## ingen är rädd
 jo jag
