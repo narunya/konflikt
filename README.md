@@ -41,5 +41,19 @@ void PrintNumbers(){
 ### test
 
 
+<<<<<<< HEAD
 ## Nja
+=======
 
+
+
+
+
+=======
+
+
+b
+
+
+## Nja
+## i = write mode i vim
