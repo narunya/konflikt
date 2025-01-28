@@ -62,7 +62,8 @@ void PrintNumbers(){
 - The project should be done by tomorrow!
 - You will never get me 
 - All your base are belong to us!
-- Area 15 is unsafe 
+- Area 15 is unsafe
+- Conflict is just the begining 
 
 ## Nja
 ## i = write mode i vim
