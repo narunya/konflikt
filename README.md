@@ -62,6 +62,9 @@ void PrintNumbers(){
 - All your base are belong to us!
 - Area 15 is unsafe
 - My head is exploding 
+- Conflict is just the begining
+- Poop
+
 
 ## Nja
 ## i = write mode i vim
